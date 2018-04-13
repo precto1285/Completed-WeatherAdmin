@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/precto1285/Completed-WeatherAdmin/issues"
   },
-  "homepage": "https://github.com/precto1285/Completed-WeatherAdmin#readme"
+  "homepage": "https://github.com/precto1285/Completed-WeatherAdmin#readme",
+  "dependencies": {
+    "weather-js": "^2.0.0"
+  }
 }

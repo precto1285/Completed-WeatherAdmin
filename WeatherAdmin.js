@@ -14,3 +14,12 @@
 
 //     * `newUserSearch`, which runs a search on behalf of a user.
 
+var UserSearch = require('./userSearch.js');
+
+var name = process.argv[2];
+
+var location = process.argv[3];
+
+var newUser = new UserSearch(name, location);
+
+newUser.getWeather();
