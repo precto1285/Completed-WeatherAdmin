@@ -27,8 +27,9 @@ var UserSearch = function(name, location) {
       if (err) {
           throw err;
       }  
-      
-      console.log(JSON.stringify(result, null, 2));
+      var temp = result[0].current.temperature;
+
+      console.log(JSON.stringify(temp, null, 2));
     
     });
 
