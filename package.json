@@ -1,0 +1,19 @@
+{
+  "name": "completed-weatheradmin",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "CLI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/precto1285/Completed-WeatherAdmin.git"
+  },
+  "author": "Philippe Recto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/precto1285/Completed-WeatherAdmin/issues"
+  },
+  "homepage": "https://github.com/precto1285/Completed-WeatherAdmin#readme"
+}
